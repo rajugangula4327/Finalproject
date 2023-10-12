@@ -1,0 +1,3 @@
+2023-10-11 17:03:46 DEBUG utlities.Browserutilties:21 - The Google Chrome Browser is called
+2023-10-11 17:03:46 DEBUG utlities.Browserutilties:35 - The Browser window Maximzed
+2023-10-11 17:03:46 DEBUG utlities.Browserutilties:38 - The Implicit Wait and Page loading timeout has been mentioned
